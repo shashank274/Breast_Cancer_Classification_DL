@@ -85,11 +85,11 @@ Performance Metrics
 -------------------
 
 *   Accuracy: **~95%** on the test dataset
-*   ![image](https://github.com/user-attachments/assets/dee81353-8fed-4ebe-b30f-aa4c3663fbe4)
+*       ![image](https://github.com/user-attachments/assets/dee81353-8fed-4ebe-b30f-aa4c3663fbe4)
 
     
 *   Loss: **Monitored using validation loss curve**
-    ![image](https://github.com/user-attachments/assets/888499c5-99a2-4cb7-93d4-35935442c7bb)
+*     ![image](https://github.com/user-attachments/assets/888499c5-99a2-4cb7-93d4-35935442c7bb)
 
 
 Future Improvements
